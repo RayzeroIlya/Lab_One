@@ -1,13 +1,14 @@
+#pragma once
 #include <iostream>
 
-int rectangle_square(int length, int width) {
+double rectangle_square(double length, double width) {
 	return length * width;
 }
 
-int rectangle_perimeter(int length, int width) {
+double rectangle_perimeter(double length, double width) {
 	return 2 * length + 2 * width;
 }
 
-int rectangle_diagonal(int length, int width) {
+double rectangle_diagonal(double length, double width) {
 	return sqrt(length*length + width*width);
 }
