@@ -1,7 +1,6 @@
 #include <iostream>
 
 int rectangle_square(int length, int width) {
-
 	return length * width;
 }
 

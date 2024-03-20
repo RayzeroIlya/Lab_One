@@ -2,10 +2,16 @@
 //
 
 #include <iostream>
+#include "Rectangle.cpp"
+
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    
+    
+
+
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
