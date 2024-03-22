@@ -12,3 +12,4 @@ double rectanglePerimeter(double length, double width) {
 double rectangleDiagonal(double length, double width) {
 	return sqrt(length*length + width*width);
 }
+//
