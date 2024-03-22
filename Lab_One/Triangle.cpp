@@ -9,7 +9,7 @@ double triangleSquare(double sideA, double sideB, double sideC) {
 	double p = (sideA + sideB + sideC)/2;
 	return (sqrt(p * (p - sideA) * (p - sideB) * (p - sideC)));
 }
-double isoscelesTriangle(double sideA, double sideB, double sideC) {
+int isoscelesTriangle(double sideA, double sideB, double sideC) {
 	if (sideA + sideB <= sideC || sideA + sideC <= sideB || sideB + sideC <= sideA) {
 		return (0);
 	}else if (sideA == sideB || sideA == sideC || sideB == sideC) {
