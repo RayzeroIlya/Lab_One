@@ -1,4 +1,4 @@
 #pragma once
-double rectangle_square(double length, double width);
-double rectangle_perimeter(double length, double width);
-double rectangle_diagonal(double length, double width);
+double rectangleSquare(double length, double width);
+double rectanglePerimeter(double length, double width);
+double rectangleDiagonal(double length, double width);
