@@ -12,3 +12,4 @@ double rectangle_perimeter(double length, double width) {
 double rectangle_diagonal(double length, double width) {
 	return sqrt(length*length + width*width);
 }
+//
