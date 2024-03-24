@@ -1,15 +1,13 @@
 ﻿
 #include <iostream>
-<<<<<<< HEAD
 #include "Triangle.h"
 #include "Rectangle.h"
 
->>>>>>> rectangle
+
 using namespace std;
 
 int main()
 {
-<<<<<<< HEAD
 	int sideA, sideB, sideC;
 	cout << "Input 3 sides for triangle\n";
 	cin >> sideA >> sideB >> sideC;
@@ -26,7 +24,7 @@ int main()
 	cout << "Perimeter = " << rectanglePerimeter(length, width) << endl;
 	cout << "Square = " << rectangleSquare(length, width) << endl;
 	cout << "Diagonal = " << rectangleDiagonal(length, width) << endl;
->>>>>>> rectangle
+
 }
 
 
