@@ -1,1 +1,2 @@
 D:\prog\Lab_One\Lab_One\x64\Debug\Lab_One.exe
+C:\Users\mega1\Desktop\gitProjects\Lab_One\Lab_One\x64\Debug\Lab_One.exe
