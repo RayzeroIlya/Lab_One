@@ -1,1 +1,1 @@
-D:\Lab_One\Lab_One\x64\Debug\Lab_One.exe
+D:\prog\Lab_One\Lab_One\x64\Debug\Lab_One.exe
