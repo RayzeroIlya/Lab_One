@@ -18,12 +18,18 @@
     <ClCompile Include="Lab_One.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="Triangle.cpp">
+    <ClCompile Include="Rectangle.cpp">
+>>>>>>> rectangle
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClInclude Include="Triangle.h">
+    <ClInclude Include="Rectangle.h">
+>>>>>>> rectangle
       <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>
