@@ -18,6 +18,7 @@ int main()
 	case 1: cout << "Triangle" << endl; break;
 	case 2: cout << "Isosceles triangle" << endl; break;
 	case 3: cout << "Equal triangle" << endl; break;
+	}
 	int length, width;
 	cout << "Input lenght and width for rectangle\n";
 	cin >> length >> width;
